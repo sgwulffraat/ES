@@ -76,4 +76,5 @@ BAL = BAL_process(diskPath,fn_BAL,fn0,idxB,D,S,b,c,XmRefB,XmRefM,dAoA,dAoS,model
 figure
 plot(BAL.windOn.Deltaminus10v2.AoA,BAL.windOn.Deltaminus10v2.CL,'*b')
 
-
+%Test section
+Delta0 = 2;
